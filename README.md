@@ -11,3 +11,5 @@ http://462945781654321278.ofd0711.xyz:80/live/XGGR553789/JJA552888578/321278.ts
 http://restaurantetogether.es:8080/Cirstea_Grigore_/3dPyejuqddvvlViJ4Yaqujpwo3y3pL/55332
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD (FIBRA)" tvg-logo="" group-title="Spania",LA 1 FHD (FIBRA)
 http://restaurantetogether.es:8080/Cirstea_Grigore_/3dPyejuqddvvlViJ4Yaqujpwo3y3pL/55333
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES - La Uno" tvg-logo="http://content.iptv11.is/stalker_portal/misc/logos/240/3623.png" group-title="Spain",ES - La Uno
+http://iptu.org/ch/launo.m3u8
