@@ -21,6 +21,18 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=10
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108447&extension=ts&play_token=jsYdLUp8Pj
 #EXTINF:-1,ES| DAZN LaLiga FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108446&extension=ts&play_token=rnFRqzax5h
+#EXTINF:-1,M+ Liga de Campeones FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108397&extension=ts&play_token=CcklliIbVC
+#EXTINF:-1,M+ Liga de Campeones FHD (OR)
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108396&extension=ts&play_token=bGDxG8pG45
+#EXTINF:-1,M+ Liga de Campeones FHD (SAT)
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108398&extension=ts&play_token=GVi6HRPQ4E
+#EXTINF:-1,M+ Liga de Campeones 2 FHD (ORG)
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108394&extension=ts&play_token=mfQs1TBrcp
+#EXTINF:-1,M+ Liga de Campeones 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108393&extension=ts&play_token=smFECCFgPJ
+#EXTINF:-1,M+ Liga de Campeones 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108391&extension=ts&play_token=QOtJkRqBTY
 #EXTINF:-1,ES| DAZN 1 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108455&extension=ts&play_token=KdVJ0fQXh2
 #EXTINF:-1,ES| DAZN 2 FHD
@@ -29,32 +41,6 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=10
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108451&extension=ts&play_token=2VlA6B4r0S
 #EXTINF:-1,ES| DAZN MotoGP FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108449&extension=ts&play_token=y9r23Cz2OJ
-#EXTINF:-1,M+ Liga de Campeones HDR (OR)
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108402&extension=ts&play_token=sycEAOn8KM
-#EXTINF:-1,M+ Liga de Campeones 2 HDR (OR)
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108401&extension=ts&play_token=w5DPyNdR1K
-#EXTINF:-1,M+ Liga de Campeones HDR
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108400&extension=ts&play_token=NgpOqOHvpZ
-#EXTINF:-1,M+ Liga de Campeones 2 HDR
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108399&extension=ts&play_token=HmDXYnKw96
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 1 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108538&extension=ts&play_token=G6TNgCtuSP
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108537&extension=ts&play_token=sd9vbES8M3
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108536&extension=ts&play_token=m1GkrJZigO
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 4 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108535&extension=ts&play_token=XORJc0m79i
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 5 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108534&extension=ts&play_token=aEhIJUHxBX
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 6 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108533&extension=ts&play_token=jAlX4mFOsp
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 7 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108532&extension=ts&play_token=tInk3GMnAC
-#EXTINF:-1,ES: LIGA DE CAMPEONES POR BAR 8 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108531&extension=ts&play_token=HfZeh2IJW2
-#EXTINF:-1,M+ Copa del Rey FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108478&extension=ts&play_token=KTdweT49N6
 #EXTINF:-1,M+ LALIGA TV 5 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108469&extension=ts&play_token=it4BrQFsF8
 #EXTINF:-1,M+ LALIGA TV 2 FHD
@@ -97,34 +83,12 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=10
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108423&extension=ts&play_token=chSkCFe0N6
 #EXTINF:-1,ES| EUROSPORT 2 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108421&extension=ts&play_token=9ZV6qAfUPj
-#EXTINF:-1,ES| NFL NETWORK FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108419&extension=ts&play_token=O8vQaWWL41
-#EXTINF:-1,DAZN 1 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108418&extension=ts&play_token=k2EsTCWT2O
-#EXTINF:-1,DAZN 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108415&extension=ts&play_token=GvnVcn417W
-#EXTINF:-1,DAZN 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108412&extension=ts&play_token=TGfJpg7GlD
-#EXTINF:-1,DAZN 4 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108410&extension=ts&play_token=gvyKtqLNzq
 #EXTINF:-1,LALIGA TV HYPERMOTION FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108408&extension=ts&play_token=pJJraqY2jO
 #EXTINF:-1,LALIGA TV HYPERMOTION 2 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108406&extension=ts&play_token=GkVMwd0yho
 #EXTINF:-1,LALIGA TV HYPERMOTION 3 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108404&extension=ts&play_token=RQxhcFACS4
-#EXTINF:-1,M+ Liga de Campeones FHD (SAT)
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108398&extension=ts&play_token=GVi6HRPQ4E
-#EXTINF:-1,M+ Liga de Campeones FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108397&extension=ts&play_token=CcklliIbVC
-#EXTINF:-1,M+ Liga de Campeones FHD (OR)
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108396&extension=ts&play_token=bGDxG8pG45
-#EXTINF:-1,M+ Liga de Campeones 2 FHD (ORG)
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108394&extension=ts&play_token=mfQs1TBrcp
-#EXTINF:-1,M+ Liga de Campeones 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108393&extension=ts&play_token=smFECCFgPJ
-#EXTINF:-1,M+ Liga de Campeones 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108391&extension=ts&play_token=QOtJkRqBTY
 #EXTINF:-1,M+ Deportes FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108388&extension=ts&play_token=35AP6nehxk
 #EXTINF:-1,M+ Deportes 2 FHD
