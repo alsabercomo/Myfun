@@ -25,6 +25,8 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=10
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108397&extension=ts&play_token=CcklliIbVC
 #EXTINF:-1,M+ Liga de Campeones FHD (OR)
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108396&extension=ts&play_token=bGDxG8pG45
+#EXTINF:-1,ES | Liga de Campeones HD 1080P
+http://main3.112421.net:80/live/PmScfleIzW/aRqr2u7xY1/355155.ts
 #EXTINF:-1,M+ Liga de Campeones FHD (SAT)
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:E5:87:B0&stream=108398&extension=ts&play_token=GVi6HRPQ4E
 #EXTINF:-1,M+ Liga de Campeones 2 FHD (ORG)
